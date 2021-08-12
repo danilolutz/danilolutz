@@ -17,6 +17,7 @@ Since 2003 coding...
   <img alt="Laravel" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
   <img alt="Linux" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/linux.png">
   <img alt="CSharp" height="30" src="https://github.com/learnbr/csharp/raw/master/csharp-logo.png">
+  <img alt="Python" height="30" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png">
   <br />
   <br />
 </h4>
