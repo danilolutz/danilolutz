@@ -1,8 +1,4 @@
-**About me**
-
-- 👋  Hi, I’m Danilo Lutz.
-- 🔭  I’m currently working on Dextra
-- 📫  How to reach me: danilolutz@protonmail.com
+### Hi, I’m Danilo 👋
 
 Obsessed for learning. OOP, Design Patterns Software Architecture, NodeJS, PHP, C# and Python lover. 
 Since 2003 coding...
@@ -22,9 +18,16 @@ Since 2003 coding...
   <br />
 </h4>
 
-**What i'm learning?**
+### What i'm learning? 🌱
 
-- 🌱 I’m currently learning about Clean Architecture
+I’m currently learning about Clean Architecture
+
+### Find me around the web 🌎: <a href="https://www.linkedin.com/in/danilolutz/" target="_blank">LinkedIn</a> | <a href="https://twitter.com/danilolutz" target="_blank">Twitter</a> | <a href="https://www.instagram.com/danilolutz/" target="_blank">Instagram</a>
+
+### Some projects to help me with... 🤞
+
+* https://github.com/librarian-org
+* https://github.com/danilolutz/CoreZipcode
 
 <!--
 Here are some ideas to get you started:
