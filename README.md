@@ -1,43 +1,38 @@
-### Hi, I’m Danilo 👋
+# 👋 Hi, I’m Danilo
 
-Obsessed for learning. OOP, Design Patterns Software Architecture, NodeJS, PHP, C# and Python lover. 
+I have been a developer over 20 years now, specializing in some tech stacks ecosystems that you can check bellow.
+
+## 🧑 The person
+
+Obsessed for learning. OOP, Design Patterns Software Architecture, NodeJS, PHP, C# and Python lover.
 Since 2003 coding...
 
-**Languages and tools:**
+## 🧑‍💻 The enterpreneuer
 
-<h4>
-  <img alt="ReactJS" height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-  <img alt="Javascript" height="30" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png">
-  <img alt="Typescript" height="30" src="https://github.com/remojansen/logo.ts/raw/master/ts.svg">
-  <img alt="PHP" height="30" src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png">
-  <img alt="Laravel" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
-  <img alt="Linux" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/linux.png">
-  <img alt="CSharp" height="30" src="https://github.com/learnbr/csharp/raw/master/csharp-logo.png">
-  <img alt="Python" height="30" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png">
-  <br />
-  <br />
-</h4>
+Recently founded [Duallogic](https://duallogic.net).
 
-### What i'm learning? 🌱
+Duallogic takes care of yours company software for you. We get the headaches, you get the prize!
 
-I’m currently learning about Clean Architecture
+🇺🇸 🇧🇷
 
-### Find me around the web 🌎: <a href="https://www.linkedin.com/in/danilolutz/" target="_blank">LinkedIn</a> | <a href="https://twitter.com/danilolutz" target="_blank">Twitter</a> | <a href="https://www.instagram.com/danilolutz/" target="_blank">Instagram</a>
+## 💬 Let's start talk
 
-### Some projects to help me with... 🤞
+<a href="https://wa.link/fp0mw5" target="_blank">
+ <img src="https://img.shields.io/badge/WhatsApp%20(Duallogic)-373737?style=for-the-badge&logo=WhatsApp" alt="WhatsApp" />
+</a>
+<a href="https://www.linkedin.com/in/danilolutz/" target="_blank">
+ <img src="https://img.shields.io/badge/LinkedIn-373737?style=for-the-badge&logo=LinkedIn" alt=LinkedIn />
+</a>
+<a href="https://twitter.com/danilolutz" target="_blank">
+<img src="https://img.shields.io/badge/X%20(twitter)-373737?style=for-the-badge&logo=X" alt="X (twitter)" />
+</a>
+<a href="https://www.instagram.com/danilolutz/" target="_blank">
+ <img src="https://img.shields.io/badge/Instagram-373737?style=for-the-badge&logo=Instagram" alt="Instagram" />
+</a>
 
-* https://github.com/librarian-org
-* https://github.com/danilolutz/CoreZipcode
+## 🤞 Some of my open source projects
 
-<!--
-Here are some ideas to get you started:
+- <https://github.com/librarian-org>
+- <https://github.com/danilolutz/CoreZipcode>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And more to come...
