@@ -15,7 +15,7 @@ Duallogic takes care of yours company software for you. We get the headaches, yo
 
 🇺🇸 🇧🇷
 
-## Technologies
+## 🤖 Technologies
 
 <table align="center" border="1" width="100%"><tr><td valign="top" width="25%">
 
@@ -38,7 +38,7 @@ Duallogic takes care of yours company software for you. We get the headaches, yo
 ### <div align="center"> Databases </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark&perline=2" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark&perline=3" />
 </p>
 
 </td><td valign="top" width="25%">
@@ -46,7 +46,7 @@ Duallogic takes care of yours company software for you. We get the headaches, yo
 ### <div align="center"> Tools </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,rabbitmq,grafana,prometheus,docker,vscode&theme=dark&perline=2" />
+<img src="https://skillicons.dev/icons?i=aws,azure,rabbitmq,grafana,prometheus,docker,vscode,linux,windows&theme=dark&perline=3" />
 </p>
 
 </td></tr></table>
