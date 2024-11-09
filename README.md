@@ -15,6 +15,42 @@ Duallogic takes care of yours company software for you. We get the headaches, yo
 
 🇺🇸 🇧🇷
 
+## Technologies
+
+<table align="center" border="1" width="100%"><tr><td valign="top" width="25%">
+
+### <div align="center"> Frontend </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,tailwind,flutter&theme=dark&perline=3" />
+</p>
+
+</td><td valign="top" width="25%">
+
+### <div align="center"> Backend </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,jest,dart,php,python,dotnet&theme=dark&perline=3" />
+</p>
+
+</td><td valign="top" width="25%">
+
+### <div align="center"> Databases </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark&perline=2" />
+</p>
+
+</td><td valign="top" width="25%">
+
+### <div align="center"> Tools </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,rabbitmq,grafana,prometheus,docker,vscode&theme=dark&perline=2" />
+</p>
+
+</td></tr></table>
+
 ## 💬 Let's start talk
 
 <a href="https://wa.link/fp0mw5" target="_blank">
